@@ -2,7 +2,7 @@
   "name": "2-ra-homework-events-state",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ayostar/2-ra-homework-events-state",
+  "homepage": "https://ayostar.github.io/2-ra-homework-events-state",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",

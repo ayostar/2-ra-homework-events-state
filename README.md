@@ -4,6 +4,8 @@
 
 [[Github Pages](https://ayostar.github.io/2-ra-homework-events-state/)]
 
+(https://ayostar.github.io/2-ra-homework-events-state/)
+
 # Состояние компонентов
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
