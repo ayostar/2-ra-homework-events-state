@@ -1,0 +1,23 @@
+.project-list-portfolio {
+  display: flex;
+  margin: -0.4rem;
+}
+
+.project-list-portfolio__column {
+  flex: 0 0 33.33%;
+}
+
+.project-list-portfolio__project {
+  padding: 0.4rem;
+}
+
+.project-list-portfolio__project img {
+  width: 100%;
+  max-width: 100%;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  transition: box-shadow 0.3s ease-out;
+}
+
+.project-list-portfolio__img:hover {
+  box-shadow: 0 0 5px 0 grey;
+}

@@ -1,0 +1,33 @@
+.portfolio__toolbar {
+  margin-bottom: 1rem;
+}
+
+.toolbar-portfolio__list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -0.2rem;
+}
+
+.toolbar-portfolio__list li {
+  padding: 0.2rem;
+}
+
+.toolbar-portfolio__btn {
+  padding: 0.4rem 1rem;
+  border: 1px solid grey;
+  color: #000000;
+
+  transition: border-color 0.3s, color 0.3s, background-color 0.8s;
+}
+
+.toolbar-portfolio__btn:hover {
+  border-color: #990af8;
+  color: #990af8;
+}
+
+.toolbar-portfolio__btn_selected,
+.toolbar-portfolio__btn_selected:hover {
+  color: white;
+  border-color: grey;
+  background-color: #990af8;
+}
